@@ -5,4 +5,4 @@
 -   React
 -   React Router Dom
 -   React Icons
--   Tailwind Css
+-   Tailwind CSS
